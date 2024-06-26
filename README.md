@@ -20,11 +20,12 @@ Uses react-navigation to create bottom tab navigation and stack navigation.
   - Various styles for layout, text, and image styling.
   
 **Mycards.js**
-This is the component for the My Cards screen.
+  This is the component for the My Cards screen.
 
 **Settingpage.js**
 - Setttingpage.js is the component for the settings screen.
   In addition to all the UI components employed in the homepage.js the switch component was also introduced in settingpage.js to toggle between dark and light modes. This was implemented using the theme button.
+
 **Statistics.js**
 - This is the component for the statistics screen.
 ## NAVIGATION
